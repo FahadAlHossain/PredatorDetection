@@ -4,6 +4,10 @@ This repository presents the training and evaluation of a **YOLOv8s** object det
 >  "Cattle", "Goat", "Sheep", "Chicken", "Duck", "Pig", "Horse", "Rabbit", "Tiger", "Leopard", "Fox", "Bear", "Snake", "Lizard", "Dog", "Eagle", "Mouse", "Monkey", "Porcupine", "Elephant", "Reptile"
 ---
 
+## Performance Output in Collab
+![See Performance in Collab]([/Performance-yolov8s/labels.jpg](https://colab.research.google.com/drive/1g0qsUMNsM--NwTxIjx9nm1s9ijxnQYsx?usp=sharing))
+
+
 ## 📁 Dataset Overview
 
 - **Number of Classes**: 24 animal species
